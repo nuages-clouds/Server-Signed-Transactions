@@ -8,3 +8,6 @@ Andrew Starling / 100191710
 * Get contract object
 * Create transaction
 * Sign and send
+
+The screen captures illustrate the parameter 'HELLO WORLD!'
+included in the transaction data of the contract call.
