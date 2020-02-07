@@ -1,4 +1,4 @@
-# BCDV1011-Server-Signed-Transactions
+# Server-Signed-Transactions
 
 Andrew Starling / 100191710
 
